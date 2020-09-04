@@ -1,0 +1,29 @@
+label {
+    margin-bottom: 0rem;
+    font-size: 25px;
+}
+
+#logo {
+    display: flex;
+}
+
+#navar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    padding-top: 2rem;
+}
+
+#namedeco{
+    margin-left: 1rem;
+}
+
+#profile{
+    height: 100%;
+}
+
+footer{
+    padding-top: 1.5rem;
+}
